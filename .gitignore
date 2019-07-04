@@ -49,3 +49,6 @@ build/index.php
 npm-debug.log
 wp-config.php
 /db/
+wp-config-demo.php
+wp-config-dev.php
+wp-config-live.php
